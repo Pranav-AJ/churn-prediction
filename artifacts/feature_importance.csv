@@ -1,0 +1,44 @@
+,importance
+cat__Contract_Month-to-month,0.14171344429567825
+num__tenure,0.1200245847248132
+num__TotalCharges,0.09879587894351989
+cat__OnlineSecurity_No,0.06984149759792958
+cat__Contract_Two year,0.06978761085633645
+num__MonthlyCharges,0.06700730281018799
+cat__TechSupport_No,0.05703002718589616
+cat__InternetService_Fiber optic,0.04848517907016727
+cat__PaymentMethod_Electronic check,0.03691571382284486
+cat__InternetService_DSL,0.019242451887464474
+cat__Contract_One year,0.01744570614276941
+cat__OnlineBackup_No,0.01704154710607396
+cat__StreamingTV_No internet service,0.014349564215781827
+cat__OnlineSecurity_Yes,0.013742496856853074
+cat__TechSupport_Yes,0.01273392500900719
+cat__PaperlessBilling_No,0.011748912569219352
+cat__OnlineSecurity_No internet service,0.011221710155674258
+cat__PaperlessBilling_Yes,0.010702174763117179
+cat__DeviceProtection_No,0.010011554802695586
+cat__OnlineBackup_Yes,0.00937042748696405
+cat__TechSupport_No internet service,0.00887966904408376
+cat__gender_Male,0.008587146578092111
+cat__gender_Female,0.008196541004049407
+cat__StreamingMovies_No internet service,0.008152534378991619
+cat__Dependents_Yes,0.00737414048110756
+cat__Dependents_No,0.007355824161046147
+cat__StreamingMovies_Yes,0.007109880608909062
+cat__Partner_No,0.00702528485186425
+cat__PaymentMethod_Bank transfer (automatic),0.007017264188234634
+cat__StreamingTV_Yes,0.006754883313921276
+cat__DeviceProtection_No internet service,0.006751290164242489
+cat__StreamingMovies_No,0.0066818747113979535
+cat__Partner_Yes,0.006494319552306799
+cat__StreamingTV_No,0.006415554878905072
+cat__PaymentMethod_Credit card (automatic),0.006288197408107241
+cat__InternetService_No,0.005037075599468184
+cat__DeviceProtection_Yes,0.00501095355650661
+cat__SeniorCitizen_0,0.004614532535033447
+cat__PaymentMethod_Mailed check,0.004574547661664992
+cat__SeniorCitizen_1,0.004318051852424706
+cat__OnlineBackup_No internet service,0.0036669146862998376
+cat__PhoneService_No,0.0032653391983175186
+cat__PhoneService_Yes,0.003216469282031314
